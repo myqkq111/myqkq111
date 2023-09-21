@@ -1,5 +1,5 @@
 <div align="center" >
-  <h3>👋Hi, I'm Junseo Choi, a junior developer</h3>
+  <h3><span style="color:red">👋Hi, I'm Junseo Choi, a junior developer</span></h3>
 </div>
 <br>
 <br>
