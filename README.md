@@ -8,7 +8,7 @@
 
 
 <div align="center" >
-  <h2>Skills</h2>
+  <h2>🛠️Skills</h2>
 </div>
 <table align="center">
   <tr>
@@ -55,9 +55,9 @@
 <div align="center">
   <h2>🔗Link</h2>
   <a href="https://blog.naver.com/myqkq222">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+    <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white">
   </a>
   <a href="myqkq222@naver.com">
-    <img src="https://img.shields.io/badge/Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+    <img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=myqkq222@naver.com"/>
   </a>
 </div>
